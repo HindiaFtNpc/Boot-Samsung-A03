@@ -8,7 +8,4 @@
 </p>
 
 ### 📮 S&K
-1. Not For Sale
-2. Don't forget give star this repo
-3. Don't use this repository wrong!
-4. If you have problem chat me in owner number
+Use this repo as best as possible and don't share it with a zip with a password and don't forget that the original source is only in this repo! 
