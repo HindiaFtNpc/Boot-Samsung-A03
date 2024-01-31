@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-# `Account information`
+# `information`
 > Root using Magisk No TWRP but you can use Adb from your laptop/cellphone/pc ONLY ( SAMSUNG A03 - A035FXXS5CWK1 )
 
 <p align="center">
