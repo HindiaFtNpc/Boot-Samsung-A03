@@ -1,7 +1,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 # `Account information`
-> Root using Magisk No TWRP but you can use Adb from your laptop/cellphone/pc 
+> Root using Magisk No TWRP but you can use Adb from your laptop/cellphone/pc ONLY ( SAMSUNG A03 - A035FXXS5CWK1 )
 
 <p align="center">
 <a href="https://saweria.co/YUSUP909"><img alt="Cute Count" src="https://raw.githubusercontent.com/NeeasTooID/Static-HTML/main/media/Proyek%20Baru%20167%20%5B32B7FD1%5D.png"/></a>
